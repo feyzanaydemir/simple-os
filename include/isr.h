@@ -56,6 +56,5 @@ static const char *exception_messages[] = {
 extern void isr_init(void);
 extern void isr_handler(registers_t *registers);
 extern void isr_add_handler(uint8_t n, isr_t handler);
-extern void remap_pic_irq(void);
 
 #endif
