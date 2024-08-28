@@ -1,6 +1,6 @@
 # Simple OS
 
-<!-- <p align="center"><img src="icon.png" width="250" /></p> -->
+<p align="center"><img src="icon.png" width="200" /></p>
 
 ## Overview
 
